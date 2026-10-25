@@ -1,0 +1,19 @@
+node_modules
+.svelte-kit
+build
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+README.md
+automark.sh
+.vscode
+student-sonnet
+.git
+Dockerfile
+compose.yml
+*.pdf
+*.typ
+__MACOSX
+sdp-lab-2 2
